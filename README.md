@@ -1,16 +1,23 @@
-### Hi there 👋
+Hi there 👋🏻
+## I'm an extremely passionate Software Engineer (IOS) ##
 
-<!--
-**Murteza12/Murteza12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 😁 ##
 
-Here are some ideas to get you started:
+📱 iOS Developer / Freelancer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ UI / UX Enthusiast
+
+💻 One line of code at a time
+
+♥️ Exploring new places
+
+💁🏻I share Tips on iOS development in my stackoverflow
+
+## Professional Skills ##
+
+#### Swift | Objective-C  | SwiftUI
+
+
+## Reach me via 👇🏻 ##
+
+- [LinkedIn](https://www.linkedin.com/in/muhammad-murteza-7aa202140/)
