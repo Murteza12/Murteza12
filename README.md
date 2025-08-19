@@ -18,6 +18,4 @@ Hi there 👋🏻
 #### Swift | Objective-C  | SwiftUI
 
 
-## Reach me via 👇🏻 ##
 
-- [LinkedIn](https://www.linkedin.com/in/muhammad-murteza-7aa202140/)
